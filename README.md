@@ -1,6 +1,6 @@
 # XTern-Work-Sample-Data-Science
 
-Included in this repository is the CSV file representing the dataset given, a folder named "out" containing my conclusions, and a python program I wrote to draw these conclusions.
+Included in this repository is the CSV file representing the dataset given, a folder named "out" containing my conclusions, and a Python program I wrote to draw these conclusions.
 
 The four different conclusions I drew from the data were:
 1. The top 10 trending restaurants
