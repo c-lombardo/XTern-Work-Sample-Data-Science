@@ -1,0 +1,35 @@
+Top 3 Restaurants for Mangalorean: 
+
+ID: ID_8368
+Lattitude: 39.24761498
+Longitude: -85.74017071
+Cuisines: North Indian, Mangalorean
+Average Cost: $35.0
+Minimum Order: $35.0
+Rating: 3.5
+Votes: 16
+Reviews: 8
+Cook Time: 45 minutes
+
+ID: ID_3913
+Lattitude: 39.71079298
+Longitude: -85.79164981
+Cuisines: Mangalorean
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 3.5
+Votes: 10
+Reviews: -1
+Cook Time: 30 minutes
+
+ID: ID_5170
+Lattitude: 39.66323239
+Longitude: -85.01073921
+Cuisines: Mangalorean, Chinese, North Indian
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 3.2
+Votes: 6
+Reviews: 1
+Cook Time: 30 minutes
+

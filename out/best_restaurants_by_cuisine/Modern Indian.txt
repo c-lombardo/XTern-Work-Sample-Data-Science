@@ -1,0 +1,35 @@
+Top 3 Restaurants for Modern Indian: 
+
+ID: ID_147
+Lattitude: 39.84413916
+Longitude: -85.26615734
+Cuisines: Mughlai, North Indian, Continental, Modern Indian, Street Food
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.3
+Votes: 296
+Reviews: 187
+Cook Time: 30 minutes
+
+ID: ID_147
+Lattitude: 39.84413916
+Longitude: -85.26615734
+Cuisines: Mughlai, North Indian, Continental, Modern Indian, Street Food
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.3
+Votes: 296
+Reviews: 187
+Cook Time: 30 minutes
+
+ID: ID_147
+Lattitude: 39.20155554
+Longitude: -85.59105377
+Cuisines: Mughlai, North Indian, Continental, Modern Indian, Street Food
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.3
+Votes: 296
+Reviews: 187
+Cook Time: 30 minutes
+

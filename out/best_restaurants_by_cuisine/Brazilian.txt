@@ -1,0 +1,13 @@
+Top 1 Restaurants for Brazilian: 
+
+ID: ID_1033
+Lattitude: 39.87805789
+Longitude: -85.24286585
+Cuisines: Finger Food, Brazilian, BBQ
+Average Cost: $75.0
+Minimum Order: $75.0
+Rating: 4.3
+Votes: 108
+Reviews: 67
+Cook Time: 45 minutes
+

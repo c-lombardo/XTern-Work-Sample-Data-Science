@@ -1,0 +1,57 @@
+Top 5 Restaurants for Wraps: 
+
+ID: ID_7184
+Lattitude: 39.40638268
+Longitude: -85.54725187
+Cuisines: Wraps, Healthy Food, Sandwich, Salad
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 4.1
+Votes: 937
+Reviews: 278
+Cook Time: 45 minutes
+
+ID: ID_5054
+Lattitude: 39.23970477
+Longitude: -85.09478282
+Cuisines: Portuguese, Wraps, Burger, Salad
+Average Cost: $50.0
+Minimum Order: $50.0
+Rating: 4.1
+Votes: 835
+Reviews: 593
+Cook Time: 45 minutes
+
+ID: ID_5054
+Lattitude: 39.36997866
+Longitude: -85.96854687
+Cuisines: Portuguese, Wraps, Burger, Salad
+Average Cost: $50.0
+Minimum Order: $50.0
+Rating: 4.1
+Votes: 835
+Reviews: 593
+Cook Time: 45 minutes
+
+ID: ID_2483
+Lattitude: 39.60222148
+Longitude: -85.14292089
+Cuisines: Fast Food, North Indian, Biryani, Rolls, Wraps
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 3.9
+Votes: 418
+Reviews: 121
+Cook Time: 65 minutes
+
+ID: ID_8438
+Lattitude: 39.86428781
+Longitude: -85.32265902
+Cuisines: Burger, Fast Food, Beverages, Sandwich, Wraps
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.9
+Votes: 121
+Reviews: 43
+Cook Time: 45 minutes
+

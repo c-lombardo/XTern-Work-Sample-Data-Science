@@ -1,0 +1,24 @@
+Top 2 Restaurants for Spanish: 
+
+ID: ID_6013
+Lattitude: 39.29149882
+Longitude: -85.57633818
+Cuisines: Cafe, Spanish, Italian, Mexican, Salad, Juices
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.1
+Votes: 1307
+Reviews: 794
+Cook Time: 45 minutes
+
+ID: ID_6013
+Lattitude: 39.49329031
+Longitude: -85.87647321
+Cuisines: Cafe, Spanish, Italian, Mexican, Salad, Juices
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.1
+Votes: 1307
+Reviews: 794
+Cook Time: 45 minutes
+

@@ -1,0 +1,35 @@
+Top 3 Restaurants for Awadhi: 
+
+ID: ID_319
+Lattitude: 39.13371907
+Longitude: -85.50302006
+Cuisines: Awadhi, Bihari
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.1
+Votes: 118
+Reviews: 91
+Cook Time: 30 minutes
+
+ID: ID_4782
+Lattitude: 39.18942361
+Longitude: -85.64957743
+Cuisines: North Indian, Healthy Food, Lucknowi, Awadhi, Biryani
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.9
+Votes: 28
+Reviews: 21
+Cook Time: 30 minutes
+
+ID: ID_319
+Lattitude: 39.13371907
+Longitude: -85.50302006
+Cuisines: Awadhi, Bihari
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.1
+Votes: 118
+Reviews: 91
+Cook Time: 30 minutes
+

@@ -1,0 +1,57 @@
+Top 5 Restaurants for Mexican: 
+
+ID: ID_1666
+Lattitude: 39.95998026
+Longitude: -85.90332907
+Cuisines: Mexican, American, Italian, Burger
+Average Cost: $50.0
+Minimum Order: $50.0
+Rating: 4.6
+Votes: 4903
+Reviews: 3989
+Cook Time: 65 minutes
+
+ID: ID_2051
+Lattitude: 39.75988562
+Longitude: -85.5005065
+Cuisines: Italian, Continental, Chinese, Mexican, Fast Food, Street Food, Desserts
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 4.7
+Votes: 3975
+Reviews: 2359
+Cook Time: 65 minutes
+
+ID: ID_4217
+Lattitude: 39.97725613
+Longitude: -85.90910279
+Cuisines: Salad, Continental, Italian, Mexican, Desserts, Beverages
+Average Cost: $50.0
+Minimum Order: $50.0
+Rating: 4.4
+Votes: 538
+Reviews: 314
+Cook Time: 45 minutes
+
+ID: ID_2398
+Lattitude: 39.68381763
+Longitude: -85.44572625
+Cuisines: Italian, Mexican
+Average Cost: $55.0
+Minimum Order: $55.0
+Rating: 4.3
+Votes: 748
+Reviews: 387
+Cook Time: 30 minutes
+
+ID: ID_5610
+Lattitude: 39.13958237
+Longitude: -85.79670659
+Cuisines: Italian, Mexican, Continental, North Indian, Finger Food
+Average Cost: $75.0
+Minimum Order: $75.0
+Rating: 4.1
+Votes: 1504
+Reviews: 938
+Cook Time: 45 minutes
+

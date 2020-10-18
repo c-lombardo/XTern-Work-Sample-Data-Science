@@ -1,0 +1,35 @@
+Top 3 Restaurants for Goan: 
+
+ID: ID_2936
+Lattitude: 39.71405779
+Longitude: -85.17261226
+Cuisines: Goan, Seafood, North Indian
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 3.4
+Votes: 46
+Reviews: 23
+Cook Time: 30 minutes
+
+ID: ID_6392
+Lattitude: 39.01295519
+Longitude: -85.23803906
+Cuisines: North Indian, Chinese, Goan
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: -1.0
+Votes: -1
+Reviews: -1
+Cook Time: 30 minutes
+
+ID: ID_2936
+Lattitude: 39.71405779
+Longitude: -85.17261226
+Cuisines: Goan, Seafood, North Indian
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 3.4
+Votes: 46
+Reviews: 23
+Cook Time: 30 minutes
+

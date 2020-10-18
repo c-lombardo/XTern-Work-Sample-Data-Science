@@ -1,0 +1,57 @@
+Top 5 Restaurants for North Eastern: 
+
+ID: ID_7000
+Lattitude: 39.39876878
+Longitude: -85.67384795
+Cuisines: North Eastern
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 3.9
+Votes: 161
+Reviews: 35
+Cook Time: 30 minutes
+
+ID: ID_4625
+Lattitude: 39.81481863
+Longitude: -85.30611169
+Cuisines: North Eastern, Momos, Fast Food, Beverages, Tibetan
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 2.9
+Votes: -1
+Reviews: -1
+Cook Time: 30 minutes
+
+ID: ID_4625
+Lattitude: 39.97988437
+Longitude: -85.25419372
+Cuisines: Fast Food, North Eastern, Momos
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 2.7
+Votes: 6
+Reviews: 5
+Cook Time: 30 minutes
+
+ID: ID_4625
+Lattitude: 39.12401762
+Longitude: -85.20474703
+Cuisines: Fast Food, North Eastern, Momos
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: -1.0
+Votes: -1
+Reviews: -1
+Cook Time: 30 minutes
+
+ID: ID_4625
+Lattitude: 39.22083016
+Longitude: -85.83152042
+Cuisines: Fast Food, North Eastern, Momos
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: -1.0
+Votes: -1
+Reviews: -1
+Cook Time: 30 minutes
+

@@ -1,0 +1,57 @@
+Top 5 Restaurants for Kerala: 
+
+ID: ID_1828
+Lattitude: 39.44212506
+Longitude: -85.62274867
+Cuisines: Kerala, Seafood, Chinese
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 3.9
+Votes: 394
+Reviews: 141
+Cook Time: 65 minutes
+
+ID: ID_7893
+Lattitude: 39.73050338
+Longitude: -85.03556901
+Cuisines: North Indian, Seafood, Biryani, Kerala
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 3.9
+Votes: 276
+Reviews: 59
+Cook Time: 45 minutes
+
+ID: ID_2458
+Lattitude: 39.01547078
+Longitude: -85.6212127
+Cuisines: Kerala, South Indian, Seafood
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.9
+Votes: 95
+Reviews: 40
+Cook Time: 30 minutes
+
+ID: ID_1828
+Lattitude: 39.44212506
+Longitude: -85.62274867
+Cuisines: Kerala, Seafood, Chinese
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 3.9
+Votes: 394
+Reviews: 141
+Cook Time: 65 minutes
+
+ID: ID_4190
+Lattitude: 39.99172634
+Longitude: -85.17889052
+Cuisines: Kerala, South Indian
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 3.3
+Votes: 159
+Reviews: 24
+Cook Time: 30 minutes
+

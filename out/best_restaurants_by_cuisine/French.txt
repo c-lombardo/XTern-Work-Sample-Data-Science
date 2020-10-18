@@ -1,0 +1,13 @@
+Top 1 Restaurants for French: 
+
+ID: ID_7739
+Lattitude: 39.83247865
+Longitude: -85.89924556
+Cuisines: Cafe, Desserts, French, Bakery, European
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.6
+Votes: 1502
+Reviews: 819
+Cook Time: 30 minutes
+

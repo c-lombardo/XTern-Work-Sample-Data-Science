@@ -1,0 +1,57 @@
+Top 5 Restaurants for BBQ: 
+
+ID: ID_1064
+Lattitude: 39.58777695
+Longitude: -85.56480514
+Cuisines: Continental, North Indian, BBQ, Steak
+Average Cost: $80.0
+Minimum Order: $80.0
+Rating: 4.7
+Votes: 9054
+Reviews: 6504
+Cook Time: 45 minutes
+
+ID: ID_6914
+Lattitude: 39.01470314
+Longitude: -85.85639443
+Cuisines: Continental, Chinese, Thai, Italian, BBQ, Steak
+Average Cost: $45.0
+Minimum Order: $45.0
+Rating: 4.0
+Votes: 1444
+Reviews: 675
+Cook Time: 45 minutes
+
+ID: ID_249
+Lattitude: 39.547912
+Longitude: -85.40022509
+Cuisines: BBQ, Chinese, Lebanese
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.6
+Votes: 35
+Reviews: 18
+Cook Time: 30 minutes
+
+ID: ID_1033
+Lattitude: 39.87805789
+Longitude: -85.24286585
+Cuisines: Finger Food, Brazilian, BBQ
+Average Cost: $75.0
+Minimum Order: $75.0
+Rating: 4.3
+Votes: 108
+Reviews: 67
+Cook Time: 45 minutes
+
+ID: ID_4294
+Lattitude: 39.15952174
+Longitude: -85.16731013
+Cuisines: Arabian, Lebanese, Mughlai, North Indian, BBQ, Chinese
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.0
+Votes: 414
+Reviews: 254
+Cook Time: 45 minutes
+

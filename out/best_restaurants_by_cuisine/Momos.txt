@@ -1,0 +1,57 @@
+Top 5 Restaurants for Momos: 
+
+ID: ID_4728
+Lattitude: 39.13510937
+Longitude: -85.83049006
+Cuisines: North Indian, Mughlai, Biryani, Rolls, Momos
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.8
+Votes: 650
+Reviews: 423
+Cook Time: 45 minutes
+
+ID: ID_4822
+Lattitude: 39.74755936
+Longitude: -85.21347077
+Cuisines: Momos, Tibetan, Beverages
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 4.5
+Votes: 647
+Reviews: 251
+Cook Time: 30 minutes
+
+ID: ID_1631
+Lattitude: 39.30460066
+Longitude: -85.70030839
+Cuisines: Asian, Thai, Japanese, Chinese, Momos
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.2
+Votes: 1473
+Reviews: 849
+Cook Time: 65 minutes
+
+ID: ID_4833
+Lattitude: 39.04975839
+Longitude: -85.22707323
+Cuisines: Chinese, Momos, Seafood
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.0
+Votes: 1016
+Reviews: 437
+Cook Time: 30 minutes
+
+ID: ID_4827
+Lattitude: 39.74187426
+Longitude: -85.97823426
+Cuisines: Chinese, Fast Food, North Indian, Momos
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.0
+Votes: 334
+Reviews: 164
+Cook Time: 45 minutes
+

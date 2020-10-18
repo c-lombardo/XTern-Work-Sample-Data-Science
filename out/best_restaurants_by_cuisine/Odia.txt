@@ -1,0 +1,57 @@
+Top 5 Restaurants for Odia: 
+
+ID: ID_7341
+Lattitude: 39.64177255
+Longitude: -85.18178309
+Cuisines: Odia, Bengali, Salad, North Indian
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 3.8
+Votes: 51
+Reviews: 34
+Cook Time: 30 minutes
+
+ID: ID_7341
+Lattitude: 39.64177255
+Longitude: -85.18178309
+Cuisines: Odia, Bengali, Salad, North Indian
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 3.8
+Votes: 51
+Reviews: 34
+Cook Time: 30 minutes
+
+ID: ID_5499
+Lattitude: 39.25713091
+Longitude: -85.48716084
+Cuisines: North Indian, South Indian, Chinese, Bengali, Odia, Biryani, Beverages
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 3.5
+Votes: 45
+Reviews: 29
+Cook Time: 45 minutes
+
+ID: ID_5499
+Lattitude: 39.35173648
+Longitude: -85.89828173
+Cuisines: North Indian, South Indian, Chinese, Bengali, Odia, Biryani, Beverages
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 3.5
+Votes: 45
+Reviews: 29
+Cook Time: 45 minutes
+
+ID: ID_5334
+Lattitude: 39.6248364
+Longitude: -85.42358993
+Cuisines: North Indian, Chinese, Odia
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.3
+Votes: 76
+Reviews: 29
+Cook Time: 30 minutes
+

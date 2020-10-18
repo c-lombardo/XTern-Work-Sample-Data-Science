@@ -1,0 +1,57 @@
+Top 5 Restaurants for Sushi: 
+
+ID: ID_826
+Lattitude: 39.43883198
+Longitude: -85.34951142
+Cuisines: Chinese, Sushi, Asian, Thai
+Average Cost: $65.0
+Minimum Order: $65.0
+Rating: 4.4
+Votes: 925
+Reviews: 589
+Cook Time: 30 minutes
+
+ID: ID_8648
+Lattitude: 39.87121696
+Longitude: -85.98002134
+Cuisines: Cafe, Sushi, Continental, Italian
+Average Cost: $35.0
+Minimum Order: $35.0
+Rating: 4.3
+Votes: 193
+Reviews: 90
+Cook Time: 30 minutes
+
+ID: ID_826
+Lattitude: 39.43883198
+Longitude: -85.34951142
+Cuisines: Chinese, Sushi, Asian, Thai
+Average Cost: $65.0
+Minimum Order: $65.0
+Rating: 4.4
+Votes: 925
+Reviews: 589
+Cook Time: 30 minutes
+
+ID: ID_825
+Lattitude: 39.29917678
+Longitude: -85.45751888
+Cuisines: Chinese, Sushi, Thai, Poké, Asian
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.1
+Votes: 51
+Reviews: 38
+Cook Time: 30 minutes
+
+ID: ID_825
+Lattitude: 39.29917678
+Longitude: -85.45751888
+Cuisines: Chinese, Sushi, Thai, Poké, Asian
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.1
+Votes: 51
+Reviews: 38
+Cook Time: 30 minutes
+

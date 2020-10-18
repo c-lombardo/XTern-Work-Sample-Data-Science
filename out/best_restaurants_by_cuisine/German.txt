@@ -1,0 +1,13 @@
+Top 1 Restaurants for German: 
+
+ID: ID_2885
+Lattitude: 39.5435464
+Longitude: -85.18679656
+Cuisines: German, Italian, Cafe
+Average Cost: $45.0
+Minimum Order: $45.0
+Rating: 4.3
+Votes: 4691
+Reviews: 2547
+Cook Time: 45 minutes
+

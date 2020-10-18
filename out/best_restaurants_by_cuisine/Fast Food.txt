@@ -1,0 +1,57 @@
+Top 5 Restaurants for Fast Food: 
+
+ID: ID_2051
+Lattitude: 39.75988562
+Longitude: -85.5005065
+Cuisines: Italian, Continental, Chinese, Mexican, Fast Food, Street Food, Desserts
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 4.7
+Votes: 3975
+Reviews: 2359
+Cook Time: 65 minutes
+
+ID: ID_8529
+Lattitude: 39.35606005
+Longitude: -85.01148814
+Cuisines: Cafe, Fast Food
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 4.5
+Votes: 1349
+Reviews: 972
+Cook Time: 65 minutes
+
+ID: ID_1841
+Lattitude: 39.91431572
+Longitude: -85.07493575
+Cuisines: Cafe, Fast Food, Beverages
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 4.4
+Votes: 1434
+Reviews: 941
+Cook Time: 45 minutes
+
+ID: ID_8438
+Lattitude: 39.0393888
+Longitude: -85.54400107
+Cuisines: Fast Food, Beverages
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.4
+Votes: 662
+Reviews: 410
+Cook Time: 45 minutes
+
+ID: ID_4606
+Lattitude: 39.47260835
+Longitude: -85.41818556
+Cuisines: Fast Food, Desserts, Beverages
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 4.1
+Votes: 3535
+Reviews: 1631
+Cook Time: 30 minutes
+

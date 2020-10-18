@@ -1,0 +1,57 @@
+Top 5 Restaurants for Bakery: 
+
+ID: ID_7739
+Lattitude: 39.83247865
+Longitude: -85.89924556
+Cuisines: Cafe, Desserts, French, Bakery, European
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.6
+Votes: 1502
+Reviews: 819
+Cook Time: 30 minutes
+
+ID: ID_981
+Lattitude: 39.85123018
+Longitude: -85.04186547
+Cuisines: Cafe, Salad, Italian, American, Bakery, Beverages
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.5
+Votes: 879
+Reviews: 518
+Cook Time: 45 minutes
+
+ID: ID_2601
+Lattitude: 39.56051209
+Longitude: -85.82613749
+Cuisines: Bakery, Desserts, Sandwich
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 4.1
+Votes: 4606
+Reviews: 2311
+Cook Time: 45 minutes
+
+ID: ID_3859
+Lattitude: 39.64949835
+Longitude: -85.02983258
+Cuisines: Cafe, Italian, Continental, Bakery
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.3
+Votes: 343
+Reviews: 292
+Cook Time: 45 minutes
+
+ID: ID_1329
+Lattitude: 39.88246327
+Longitude: -85.48666134
+Cuisines: Bakery, Desserts
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 4.3
+Votes: 196
+Reviews: 109
+Cook Time: 45 minutes
+

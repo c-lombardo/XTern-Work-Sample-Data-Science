@@ -1,0 +1,13 @@
+Top 1 Restaurants for Belgian: 
+
+ID: ID_7543
+Lattitude: 39.2903352
+Longitude: -85.67222871
+Cuisines: Burger, Belgian, Fast Food, Desserts
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.3
+Votes: 489
+Reviews: 241
+Cook Time: 65 minutes
+

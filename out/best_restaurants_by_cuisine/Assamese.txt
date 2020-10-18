@@ -1,0 +1,13 @@
+Top 1 Restaurants for Assamese: 
+
+ID: ID_1858
+Lattitude: 39.13800708
+Longitude: -85.34919832
+Cuisines: North Indian, South Indian, Assamese, Maharashtrian, Bengali
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: -1.0
+Votes: -1
+Reviews: -1
+Cook Time: 30 minutes
+

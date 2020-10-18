@@ -1,0 +1,57 @@
+Top 5 Restaurants for Healthy Food: 
+
+ID: ID_383
+Lattitude: 39.12616786
+Longitude: -85.10833361
+Cuisines: Fast Food, Healthy Food
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.7
+Votes: 707
+Reviews: 453
+Cook Time: 30 minutes
+
+ID: ID_2041
+Lattitude: 39.16900616
+Longitude: -85.23023738
+Cuisines: Italian, Pizza, Salad, Healthy Food, Mexican, Cafe, Desserts, Continental
+Average Cost: $65.0
+Minimum Order: $65.0
+Rating: 4.4
+Votes: 3248
+Reviews: 1603
+Cook Time: 45 minutes
+
+ID: ID_6967
+Lattitude: 39.97149012
+Longitude: -85.10478656
+Cuisines: Cafe, European, Continental, Sandwich, Salad, Healthy Food
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.6
+Votes: 391
+Reviews: 174
+Cook Time: 30 minutes
+
+ID: ID_1466
+Lattitude: 39.1944846
+Longitude: -85.33912302
+Cuisines: Cafe, Salad, Healthy Food, Sandwich, Italian, Beverages, Desserts
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.4
+Votes: 245
+Reviews: 120
+Cook Time: 30 minutes
+
+ID: ID_383
+Lattitude: 39.12616786
+Longitude: -85.10833361
+Cuisines: Fast Food, Healthy Food
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.7
+Votes: 707
+Reviews: 453
+Cook Time: 30 minutes
+

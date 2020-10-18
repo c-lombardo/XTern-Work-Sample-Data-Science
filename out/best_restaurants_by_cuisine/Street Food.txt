@@ -1,0 +1,57 @@
+Top 5 Restaurants for Street Food: 
+
+ID: ID_2051
+Lattitude: 39.75988562
+Longitude: -85.5005065
+Cuisines: Italian, Continental, Chinese, Mexican, Fast Food, Street Food, Desserts
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 4.7
+Votes: 3975
+Reviews: 2359
+Cook Time: 65 minutes
+
+ID: ID_2493
+Lattitude: 39.45035598
+Longitude: -85.41601897
+Cuisines: Fast Food, Street Food, Beverages, Juices
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.2
+Votes: 1762
+Reviews: 899
+Cook Time: 45 minutes
+
+ID: ID_6511
+Lattitude: 39.19939357
+Longitude: -85.52966374
+Cuisines: Street Food, Beverages
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 3.9
+Votes: 4438
+Reviews: 2576
+Cook Time: 45 minutes
+
+ID: ID_147
+Lattitude: 39.20155554
+Longitude: -85.59105377
+Cuisines: Mughlai, North Indian, Continental, Modern Indian, Street Food
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.3
+Votes: 296
+Reviews: 187
+Cook Time: 30 minutes
+
+ID: ID_1453
+Lattitude: 39.95648254
+Longitude: -85.23636939
+Cuisines: Street Food, Fast Food, Beverages
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 4.1
+Votes: 71
+Reviews: 36
+Cook Time: 45 minutes
+

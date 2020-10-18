@@ -1,0 +1,46 @@
+Top 4 Restaurants for Chettinad: 
+
+ID: ID_1766
+Lattitude: 39.11130285
+Longitude: -85.67338662
+Cuisines: Chettinad, North Indian, Seafood
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.1
+Votes: 1665
+Reviews: 690
+Cook Time: 30 minutes
+
+ID: ID_1766
+Lattitude: 39.11130285
+Longitude: -85.67338662
+Cuisines: Chettinad, North Indian, Seafood
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.1
+Votes: 1665
+Reviews: 690
+Cook Time: 30 minutes
+
+ID: ID_7252
+Lattitude: 39.30274588
+Longitude: -85.22881832
+Cuisines: Tamil, Biryani, South Indian, Chettinad, North Indian, Chinese
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 3.9
+Votes: 163
+Reviews: 112
+Cook Time: 30 minutes
+
+ID: ID_8258
+Lattitude: 39.68102857
+Longitude: -85.76403027
+Cuisines: Tamil, Biryani, Chettinad, North Indian, Chinese, South Indian
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.6
+Votes: 105
+Reviews: 45
+Cook Time: 30 minutes
+

@@ -1,0 +1,35 @@
+Top 3 Restaurants for Afghan: 
+
+ID: ID_8083
+Lattitude: 39.14342199
+Longitude: -85.04617967
+Cuisines: Afghan, BBQ, Biryani, Seafood
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.5
+Votes: 26
+Reviews: 15
+Cook Time: 30 minutes
+
+ID: ID_7554
+Lattitude: 39.54209705
+Longitude: -85.44144048
+Cuisines: Mughlai, Biryani, Afghan
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 3.4
+Votes: 23
+Reviews: 12
+Cook Time: 30 minutes
+
+ID: ID_8083
+Lattitude: 39.14342199
+Longitude: -85.04617967
+Cuisines: Afghan, BBQ, Biryani, Seafood
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.5
+Votes: 26
+Reviews: 15
+Cook Time: 30 minutes
+

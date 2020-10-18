@@ -1,0 +1,57 @@
+Top 5 Restaurants for North Indian: 
+
+ID: ID_1064
+Lattitude: 39.58777695
+Longitude: -85.56480514
+Cuisines: Continental, North Indian, BBQ, Steak
+Average Cost: $80.0
+Minimum Order: $80.0
+Rating: 4.7
+Votes: 9054
+Reviews: 6504
+Cook Time: 45 minutes
+
+ID: ID_4728
+Lattitude: 39.13510937
+Longitude: -85.83049006
+Cuisines: North Indian, Mughlai, Biryani, Rolls, Momos
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.8
+Votes: 650
+Reviews: 423
+Cook Time: 45 minutes
+
+ID: ID_7924
+Lattitude: 39.54138477
+Longitude: -85.58897872
+Cuisines: North Indian, Chinese, Kebab, Mughlai
+Average Cost: $80.0
+Minimum Order: $80.0
+Rating: 4.7
+Votes: 1112
+Reviews: 972
+Cook Time: 45 minutes
+
+ID: ID_2201
+Lattitude: 39.4061532
+Longitude: -85.929083
+Cuisines: North Indian, Chinese, South Indian
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.7
+Votes: 129
+Reviews: 79
+Cook Time: 45 minutes
+
+ID: ID_1166
+Lattitude: 39.59967431
+Longitude: -85.44458177
+Cuisines: North Indian
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 4.7
+Votes: 81
+Reviews: 74
+Cook Time: 45 minutes
+

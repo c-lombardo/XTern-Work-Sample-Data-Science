@@ -1,0 +1,57 @@
+Top 5 Restaurants for Cafe: 
+
+ID: ID_7158
+Lattitude: 39.2000858
+Longitude: -85.57600617
+Cuisines: Ice Cream, Cafe, Pizza, Burger, Beverages
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.5
+Votes: 2805
+Reviews: 1457
+Cook Time: 45 minutes
+
+ID: ID_7739
+Lattitude: 39.83247865
+Longitude: -85.89924556
+Cuisines: Cafe, Desserts, French, Bakery, European
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.6
+Votes: 1502
+Reviews: 819
+Cook Time: 30 minutes
+
+ID: ID_8529
+Lattitude: 39.35606005
+Longitude: -85.01148814
+Cuisines: Cafe, Fast Food
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 4.5
+Votes: 1349
+Reviews: 972
+Cook Time: 65 minutes
+
+ID: ID_6967
+Lattitude: 39.97149012
+Longitude: -85.10478656
+Cuisines: Cafe, European, Continental, Sandwich, Salad, Healthy Food
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.6
+Votes: 391
+Reviews: 174
+Cook Time: 30 minutes
+
+ID: ID_981
+Lattitude: 39.85123018
+Longitude: -85.04186547
+Cuisines: Cafe, Salad, Italian, American, Bakery, Beverages
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.5
+Votes: 879
+Reviews: 518
+Cook Time: 45 minutes
+

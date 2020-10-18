@@ -1,0 +1,57 @@
+Top 5 Restaurants for Finger Food: 
+
+ID: ID_4345
+Lattitude: 39.28661169
+Longitude: -85.72551931
+Cuisines: North Indian, Chinese, Italian, Finger Food, American
+Average Cost: $80.0
+Minimum Order: $80.0
+Rating: 4.4
+Votes: 1102
+Reviews: 766
+Cook Time: 30 minutes
+
+ID: ID_4345
+Lattitude: 39.28661169
+Longitude: -85.72551931
+Cuisines: North Indian, Chinese, Italian, Finger Food, American
+Average Cost: $80.0
+Minimum Order: $80.0
+Rating: 4.4
+Votes: 1102
+Reviews: 766
+Cook Time: 30 minutes
+
+ID: ID_4345
+Lattitude: 39.92426986
+Longitude: -85.23165555
+Cuisines: North Indian, Chinese, Italian, Finger Food, American
+Average Cost: $80.0
+Minimum Order: $80.0
+Rating: 4.4
+Votes: 1102
+Reviews: 766
+Cook Time: 30 minutes
+
+ID: ID_7302
+Lattitude: 39.61031814
+Longitude: -85.83025872
+Cuisines: Finger Food, Salad, Continental, Italian, Sandwich
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.2
+Votes: 1392
+Reviews: 739
+Cook Time: 45 minutes
+
+ID: ID_4973
+Lattitude: 39.73446475
+Longitude: -85.64148567
+Cuisines: Salad, European, Steak, Healthy Food, Beverages, Finger Food
+Average Cost: $55.0
+Minimum Order: $55.0
+Rating: 4.2
+Votes: 1319
+Reviews: 659
+Cook Time: 45 minutes
+

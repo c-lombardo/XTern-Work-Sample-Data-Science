@@ -1,0 +1,57 @@
+Top 5 Restaurants for European: 
+
+ID: ID_6915
+Lattitude: 39.30380113
+Longitude: -85.96013735
+Cuisines: European, Italian, American, Salad
+Average Cost: $65.0
+Minimum Order: $65.0
+Rating: 4.6
+Votes: 2858
+Reviews: 1673
+Cook Time: 30 minutes
+
+ID: ID_7739
+Lattitude: 39.83247865
+Longitude: -85.89924556
+Cuisines: Cafe, Desserts, French, Bakery, European
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.6
+Votes: 1502
+Reviews: 819
+Cook Time: 30 minutes
+
+ID: ID_7753
+Lattitude: 39.57111405
+Longitude: -85.06931999
+Cuisines: European, Continental, North Indian, Desserts
+Average Cost: $75.0
+Minimum Order: $75.0
+Rating: 4.3
+Votes: 3124
+Reviews: 1660
+Cook Time: 45 minutes
+
+ID: ID_4973
+Lattitude: 39.73446475
+Longitude: -85.64148567
+Cuisines: Salad, European, Steak, Healthy Food, Beverages, Finger Food
+Average Cost: $55.0
+Minimum Order: $55.0
+Rating: 4.2
+Votes: 1319
+Reviews: 659
+Cook Time: 45 minutes
+
+ID: ID_4973
+Lattitude: 39.73446475
+Longitude: -85.64148567
+Cuisines: Salad, European, Steak, Healthy Food, Beverages, Finger Food
+Average Cost: $55.0
+Minimum Order: $55.0
+Rating: 4.2
+Votes: 1319
+Reviews: 659
+Cook Time: 45 minutes
+

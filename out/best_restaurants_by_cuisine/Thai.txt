@@ -1,0 +1,57 @@
+Top 5 Restaurants for Thai: 
+
+ID: ID_7858
+Lattitude: 39.35848172
+Longitude: -85.3477517
+Cuisines: Continental, North Indian, Thai
+Average Cost: $55.0
+Minimum Order: $55.0
+Rating: 4.6
+Votes: 391
+Reviews: 220
+Cook Time: 30 minutes
+
+ID: ID_8087
+Lattitude: 39.72910005
+Longitude: -85.42266678
+Cuisines: Chinese, Thai, Asian, Malaysian, Vietnamese, Sri Lankan, Burmese
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.2
+Votes: 3782
+Reviews: 1948
+Cook Time: 30 minutes
+
+ID: ID_8149
+Lattitude: 39.57831821
+Longitude: -85.87682881
+Cuisines: Asian, Thai, Malaysian, Chinese, Japanese
+Average Cost: $35.0
+Minimum Order: $35.0
+Rating: 4.4
+Votes: 453
+Reviews: 246
+Cook Time: 65 minutes
+
+ID: ID_1631
+Lattitude: 39.30460066
+Longitude: -85.70030839
+Cuisines: Asian, Thai, Japanese, Chinese, Momos
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.2
+Votes: 1473
+Reviews: 849
+Cook Time: 65 minutes
+
+ID: ID_826
+Lattitude: 39.43883198
+Longitude: -85.34951142
+Cuisines: Chinese, Sushi, Asian, Thai
+Average Cost: $65.0
+Minimum Order: $65.0
+Rating: 4.4
+Votes: 925
+Reviews: 589
+Cook Time: 30 minutes
+

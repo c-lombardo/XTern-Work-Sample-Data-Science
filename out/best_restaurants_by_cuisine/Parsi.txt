@@ -1,0 +1,35 @@
+Top 3 Restaurants for Parsi: 
+
+ID: ID_4202
+Lattitude: 39.24472701
+Longitude: -85.74167043
+Cuisines: Parsi, Bakery
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.0
+Votes: 4335
+Reviews: 2363
+Cook Time: 30 minutes
+
+ID: ID_4202
+Lattitude: 39.94290669
+Longitude: -85.58778419
+Cuisines: Parsi, Bakery
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.0
+Votes: 4335
+Reviews: 2363
+Cook Time: 30 minutes
+
+ID: ID_4202
+Lattitude: 39.24472701
+Longitude: -85.74167043
+Cuisines: Parsi, Bakery
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.0
+Votes: 4335
+Reviews: 2363
+Cook Time: 30 minutes
+

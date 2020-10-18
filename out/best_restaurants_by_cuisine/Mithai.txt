@@ -1,0 +1,57 @@
+Top 5 Restaurants for Mithai: 
+
+ID: ID_847
+Lattitude: 39.44613764
+Longitude: -85.13969387
+Cuisines: North Indian, Street Food, South Indian, Mithai
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 4.2
+Votes: 3021
+Reviews: 1174
+Cook Time: 65 minutes
+
+ID: ID_2833
+Lattitude: 39.95671943
+Longitude: -85.46251077
+Cuisines: Mithai
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 4.1
+Votes: 551
+Reviews: 24
+Cook Time: 30 minutes
+
+ID: ID_5515
+Lattitude: 39.07358675
+Longitude: -85.84392768
+Cuisines: Street Food, Mithai
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 4.0
+Votes: 304
+Reviews: 108
+Cook Time: 30 minutes
+
+ID: ID_6636
+Lattitude: 39.72177453
+Longitude: -85.32479271
+Cuisines: Mithai, Street Food
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 4.0
+Votes: 205
+Reviews: 49
+Cook Time: 30 minutes
+
+ID: ID_2984
+Lattitude: 39.31444712
+Longitude: -85.67938179
+Cuisines: Mithai, Street Food
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 4.0
+Votes: 124
+Reviews: 39
+Cook Time: 45 minutes
+

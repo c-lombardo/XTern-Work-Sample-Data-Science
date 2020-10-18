@@ -1,0 +1,156 @@
+Restaurants with the greatest number of cuisines: 
+
+ID: ID_1160
+Lattitude: 39.24628894
+Longitude: -85.15291546
+Cuisines: Asian, Burmese, Bubble Tea, Desserts, Salad, Tea, Beverages, Ice Cream
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.7
+Votes: 914
+Reviews: 499
+Cook Time: 45 minutes
+
+ID: ID_1181
+Lattitude: 39.76457091
+Longitude: -85.94239909
+Cuisines: Sandwich, Chinese, North Indian, Pizza, Rolls, Fast Food, Desserts, Beverages
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.4
+Votes: 417
+Reviews: 181
+Cook Time: 45 minutes
+
+ID: ID_2041
+Lattitude: 39.16900616
+Longitude: -85.23023738
+Cuisines: Italian, Pizza, Salad, Healthy Food, Mexican, Cafe, Desserts, Continental
+Average Cost: $65.0
+Minimum Order: $65.0
+Rating: 4.4
+Votes: 3248
+Reviews: 1603
+Cook Time: 45 minutes
+
+ID: ID_4406
+Lattitude: 39.38982249
+Longitude: -85.10113981
+Cuisines: North Indian, Sandwich, Desserts, Beverages, Continental, Chinese, Biryani, Mughlai
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.9
+Votes: 59
+Reviews: 31
+Cook Time: 30 minutes
+
+ID: ID_2772
+Lattitude: 39.57675111
+Longitude: -85.01117161
+Cuisines: Chinese, Continental, Italian, Healthy Food, Asian, North Indian, Pizza, Desserts
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.1
+Votes: 41
+Reviews: 25
+Cook Time: 45 minutes
+
+ID: ID_2772
+Lattitude: 39.75949762
+Longitude: -85.82086375
+Cuisines: Chinese, Continental, Italian, Healthy Food, Asian, North Indian, Pizza, Desserts
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.7
+Votes: 697
+Reviews: 314
+Cook Time: 45 minutes
+
+ID: ID_5850
+Lattitude: 39.16725373
+Longitude: -85.35964841
+Cuisines: Chinese, South Indian, Burger, Sandwich, Momos, Wraps, Fast Food, Beverages
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: -1.0
+Votes: -1
+Reviews: -1
+Cook Time: 30 minutes
+
+ID: ID_3629
+Lattitude: 39.47285011
+Longitude: -85.76612655
+Cuisines: North Indian, South Indian, Italian, Continental, Mediterranean, Lebanese, Desserts, Beverages
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.6
+Votes: 36
+Reviews: 31
+Cook Time: 30 minutes
+
+ID: ID_2772
+Lattitude: 39.40177075
+Longitude: -85.49237382
+Cuisines: Chinese, Continental, Italian, Healthy Food, Asian, North Indian, Pizza, Desserts
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.7
+Votes: 27
+Reviews: 16
+Cook Time: 30 minutes
+
+ID: ID_3910
+Lattitude: 39.78754993
+Longitude: -85.65635672
+Cuisines: Arabian, North Indian, Biryani, Mughlai, BBQ, Salad, Fast Food, Desserts
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.5
+Votes: 16
+Reviews: 4
+Cook Time: 45 minutes
+
+ID: ID_3116
+Lattitude: 39.76229809
+Longitude: -85.33581473
+Cuisines: Mithai, North Indian, Fast Food, Desserts, South Indian, Street Food, Bakery, Chinese
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 3.1
+Votes: 6
+Reviews: 6
+Cook Time: 30 minutes
+
+ID: ID_2008
+Lattitude: 39.58335863
+Longitude: -85.47554217
+Cuisines: Mithai, North Indian, Chinese, South Indian, Street Food, Italian, Desserts, Beverages
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.9
+Votes: 155
+Reviews: 59
+Cook Time: 30 minutes
+
+ID: ID_158
+Lattitude: 39.40915019
+Longitude: -85.87628737
+Cuisines: American, Beverages, Burger, Cafe, Coffee, Desserts, Fast Food, Pizza
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: -1.0
+Votes: -1
+Reviews: -1
+Cook Time: 30 minutes
+
+ID: ID_8353
+Lattitude: 39.9442535
+Longitude: -85.7129797
+Cuisines: Cafe, Salad, Biryani, Chinese, Continental, Italian, Desserts, Pizza
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.0
+Votes: 498
+Reviews: 272
+Cook Time: 45 minutes
+

@@ -1,0 +1,57 @@
+Top 5 Restaurants for Bengali: 
+
+ID: ID_653
+Lattitude: 39.80780214
+Longitude: -85.8453264
+Cuisines: Bengali, North Indian
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.0
+Votes: 381
+Reviews: 204
+Cook Time: 45 minutes
+
+ID: ID_3446
+Lattitude: 39.89871031
+Longitude: -85.94785094
+Cuisines: Bengali, Seafood, Rolls
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 3.7
+Votes: 318
+Reviews: 187
+Cook Time: 45 minutes
+
+ID: ID_5021
+Lattitude: 39.26617316
+Longitude: -85.13085413
+Cuisines: Biryani, Bengali
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 3.6
+Votes: 1094
+Reviews: 249
+Cook Time: 30 minutes
+
+ID: ID_8503
+Lattitude: 39.03108594
+Longitude: -85.91333604
+Cuisines: Bengali, Fast Food
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 3.5
+Votes: 90
+Reviews: 45
+Cook Time: 45 minutes
+
+ID: ID_5499
+Lattitude: 39.25713091
+Longitude: -85.48716084
+Cuisines: North Indian, South Indian, Chinese, Bengali, Odia, Biryani, Beverages
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 3.5
+Votes: 45
+Reviews: 29
+Cook Time: 45 minutes
+

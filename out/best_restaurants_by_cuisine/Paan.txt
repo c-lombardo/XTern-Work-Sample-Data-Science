@@ -1,0 +1,57 @@
+Top 5 Restaurants for Paan: 
+
+ID: ID_7547
+Lattitude: 39.4033025
+Longitude: -85.16559239
+Cuisines: Ice Cream, Paan, Desserts
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 3.9
+Votes: 50
+Reviews: 26
+Cook Time: 30 minutes
+
+ID: ID_7547
+Lattitude: 39.4033025
+Longitude: -85.16559239
+Cuisines: Ice Cream, Paan, Desserts
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 3.9
+Votes: 50
+Reviews: 26
+Cook Time: 30 minutes
+
+ID: ID_7548
+Lattitude: 39.29633215
+Longitude: -85.18355857
+Cuisines: Paan
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 3.9
+Votes: 22
+Reviews: 13
+Cook Time: 30 minutes
+
+ID: ID_7548
+Lattitude: 39.29633215
+Longitude: -85.18355857
+Cuisines: Paan
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 3.9
+Votes: 22
+Reviews: 13
+Cook Time: 30 minutes
+
+ID: ID_3438
+Lattitude: 39.45283373
+Longitude: -85.83416203
+Cuisines: Paan
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 3.5
+Votes: 21
+Reviews: 12
+Cook Time: 30 minutes
+

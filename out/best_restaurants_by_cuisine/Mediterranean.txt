@@ -1,0 +1,57 @@
+Top 5 Restaurants for Mediterranean: 
+
+ID: ID_2521
+Lattitude: 39.72651802
+Longitude: -85.70435873
+Cuisines: Mediterranean, Pizza, Italian, Beverages
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.4
+Votes: 467
+Reviews: 262
+Cook Time: 65 minutes
+
+ID: ID_8460
+Lattitude: 39.68745139
+Longitude: -85.45371294
+Cuisines: Mediterranean, European, Continental
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.3
+Votes: 124
+Reviews: 88
+Cook Time: 30 minutes
+
+ID: ID_1804
+Lattitude: 39.03195041
+Longitude: -85.61301856
+Cuisines: European, Mediterranean
+Average Cost: $85.0
+Minimum Order: $85.0
+Rating: 4.1
+Votes: 1261
+Reviews: 652
+Cook Time: 30 minutes
+
+ID: ID_1804
+Lattitude: 39.03195041
+Longitude: -85.61301856
+Cuisines: European, Mediterranean
+Average Cost: $85.0
+Minimum Order: $85.0
+Rating: 4.1
+Votes: 1261
+Reviews: 652
+Cook Time: 30 minutes
+
+ID: ID_2521
+Lattitude: 39.72651802
+Longitude: -85.70435873
+Cuisines: Mediterranean, Pizza, Italian, Beverages
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.4
+Votes: 467
+Reviews: 262
+Cook Time: 65 minutes
+

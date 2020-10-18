@@ -1,0 +1,57 @@
+Top 5 Restaurants for Seafood: 
+
+ID: ID_13
+Lattitude: 39.10563026
+Longitude: -85.71951156
+Cuisines: Continental, North Indian, Seafood, Cafe, Salad, Chinese
+Average Cost: $65.0
+Minimum Order: $65.0
+Rating: 4.1
+Votes: 3860
+Reviews: 1962
+Cook Time: 45 minutes
+
+ID: ID_1766
+Lattitude: 39.11130285
+Longitude: -85.67338662
+Cuisines: Chettinad, North Indian, Seafood
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.1
+Votes: 1665
+Reviews: 690
+Cook Time: 30 minutes
+
+ID: ID_7247
+Lattitude: 39.74929705
+Longitude: -85.41715598
+Cuisines: Maharashtrian, Seafood
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 4.1
+Votes: 991
+Reviews: 545
+Cook Time: 65 minutes
+
+ID: ID_7479
+Lattitude: 39.16064374
+Longitude: -85.21667138
+Cuisines: Thai, Salad, Seafood
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.1
+Votes: 88
+Reviews: 43
+Cook Time: 45 minutes
+
+ID: ID_195
+Lattitude: 39.97895143
+Longitude: -85.64720711
+Cuisines: Mughlai, North Indian, Chinese, Seafood
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 4.0
+Votes: 1210
+Reviews: 503
+Cook Time: 45 minutes
+

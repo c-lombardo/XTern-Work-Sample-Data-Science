@@ -1,0 +1,57 @@
+Top 5 Restaurants for Lucknowi: 
+
+ID: ID_4782
+Lattitude: 39.18942361
+Longitude: -85.64957743
+Cuisines: North Indian, Healthy Food, Lucknowi, Awadhi, Biryani
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.9
+Votes: 28
+Reviews: 21
+Cook Time: 30 minutes
+
+ID: ID_4395
+Lattitude: 39.62526568
+Longitude: -85.69871441
+Cuisines: North Indian, Lucknowi
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 2.8
+Votes: 150
+Reviews: 89
+Cook Time: 45 minutes
+
+ID: ID_5944
+Lattitude: 39.65509516
+Longitude: -85.33387001
+Cuisines: Lucknowi, Biryani
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 2.9
+Votes: 33
+Reviews: 15
+Cook Time: 30 minutes
+
+ID: ID_5296
+Lattitude: 39.4154818
+Longitude: -85.67261752
+Cuisines: North Indian, Lucknowi
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 3.5
+Votes: 28
+Reviews: 11
+Cook Time: 30 minutes
+
+ID: ID_4782
+Lattitude: 39.18942361
+Longitude: -85.64957743
+Cuisines: North Indian, Healthy Food, Lucknowi, Awadhi, Biryani
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.9
+Votes: 28
+Reviews: 21
+Cook Time: 30 minutes
+

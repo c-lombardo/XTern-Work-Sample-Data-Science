@@ -1,0 +1,57 @@
+Top 5 Restaurants for Mishti: 
+
+ID: ID_635
+Lattitude: 39.7480778
+Longitude: -85.73557263
+Cuisines: Mishti
+Average Cost: $5.0
+Minimum Order: $5.0
+Rating: 4.4
+Votes: 1512
+Reviews: 579
+Cook Time: 45 minutes
+
+ID: ID_635
+Lattitude: 39.44684946
+Longitude: -85.02729441
+Cuisines: Mishti
+Average Cost: $5.0
+Minimum Order: $5.0
+Rating: 4.4
+Votes: 1512
+Reviews: 579
+Cook Time: 45 minutes
+
+ID: ID_635
+Lattitude: 39.7480778
+Longitude: -85.73557263
+Cuisines: Mishti
+Average Cost: $5.0
+Minimum Order: $5.0
+Rating: 4.4
+Votes: 1512
+Reviews: 579
+Cook Time: 45 minutes
+
+ID: ID_3179
+Lattitude: 39.93266293
+Longitude: -85.69207006
+Cuisines: Fast Food, North Indian, Mishti
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 4.1
+Votes: 272
+Reviews: 55
+Cook Time: 45 minutes
+
+ID: ID_3117
+Lattitude: 39.49423784
+Longitude: -85.52083723
+Cuisines: Mishti, Fast Food, South Indian
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 4.0
+Votes: 381
+Reviews: 89
+Cook Time: 65 minutes
+

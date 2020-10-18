@@ -1,0 +1,57 @@
+Top 5 Restaurants for Asian: 
+
+ID: ID_2421
+Lattitude: 39.35122963
+Longitude: -85.01264549
+Cuisines: Continental, North Indian, Mughlai, Italian, Asian
+Average Cost: $80.0
+Minimum Order: $80.0
+Rating: 4.5
+Votes: 2831
+Reviews: 1415
+Cook Time: 30 minutes
+
+ID: ID_1160
+Lattitude: 39.24628894
+Longitude: -85.15291546
+Cuisines: Asian, Burmese, Bubble Tea, Desserts, Salad, Tea, Beverages, Ice Cream
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.7
+Votes: 914
+Reviews: 499
+Cook Time: 45 minutes
+
+ID: ID_7678
+Lattitude: 39.97855579
+Longitude: -85.28522976
+Cuisines: Asian, Continental, North Indian
+Average Cost: $50.0
+Minimum Order: $50.0
+Rating: 4.6
+Votes: 1507
+Reviews: 1131
+Cook Time: 30 minutes
+
+ID: ID_8087
+Lattitude: 39.72910005
+Longitude: -85.42266678
+Cuisines: Chinese, Thai, Asian, Malaysian, Vietnamese, Sri Lankan, Burmese
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.2
+Votes: 3782
+Reviews: 1948
+Cook Time: 30 minutes
+
+ID: ID_826
+Lattitude: 39.43883198
+Longitude: -85.34951142
+Cuisines: Chinese, Sushi, Asian, Thai
+Average Cost: $65.0
+Minimum Order: $65.0
+Rating: 4.4
+Votes: 925
+Reviews: 589
+Cook Time: 30 minutes
+

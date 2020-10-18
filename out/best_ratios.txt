@@ -1,0 +1,112 @@
+Top 10 Restaurants with the Best Rating to Cost Ratio: 
+
+ID: ID_635
+Lattitude: 39.7480778
+Longitude: -85.73557263
+Cuisines: Mishti
+Average Cost: $5.0
+Minimum Order: $5.0
+Rating: 4.4
+Votes: 1512
+Reviews: 579
+Cook Time: 45 minutes
+
+ID: ID_635
+Lattitude: 39.44684946
+Longitude: -85.02729441
+Cuisines: Mishti
+Average Cost: $5.0
+Minimum Order: $5.0
+Rating: 4.4
+Votes: 1512
+Reviews: 579
+Cook Time: 45 minutes
+
+ID: ID_4267
+Lattitude: 39.77516057
+Longitude: -85.28479372
+Cuisines: Street Food, South Indian
+Average Cost: $5.0
+Minimum Order: $5.0
+Rating: 4.2
+Votes: 765
+Reviews: 143
+Cook Time: 30 minutes
+
+ID: ID_8287
+Lattitude: 39.61642007
+Longitude: -85.10699268
+Cuisines: South Indian
+Average Cost: $5.0
+Minimum Order: $5.0
+Rating: 4.1
+Votes: 141
+Reviews: 19
+Cook Time: 30 minutes
+
+ID: ID_1517
+Lattitude: 39.34658119
+Longitude: -85.28477944
+Cuisines: North Indian
+Average Cost: $5.0
+Minimum Order: $5.0
+Rating: 4.0
+Votes: 305
+Reviews: 85
+Cook Time: 45 minutes
+
+ID: ID_2370
+Lattitude: 39.61323883
+Longitude: -85.18058805
+Cuisines: Street Food
+Average Cost: $5.0
+Minimum Order: $5.0
+Rating: 3.7
+Votes: 39
+Reviews: 8
+Cook Time: 30 minutes
+
+ID: ID_5129
+Lattitude: 39.33636619
+Longitude: -85.81192796
+Cuisines: Mishti
+Average Cost: $5.0
+Minimum Order: $5.0
+Rating: 3.7
+Votes: 109
+Reviews: 24
+Cook Time: 65 minutes
+
+ID: ID_3833
+Lattitude: 39.01496822
+Longitude: -85.51638194
+Cuisines: South Indian
+Average Cost: $5.0
+Minimum Order: $5.0
+Rating: 3.7
+Votes: 22
+Reviews: 8
+Cook Time: 30 minutes
+
+ID: ID_4822
+Lattitude: 39.74755936
+Longitude: -85.21347077
+Cuisines: Momos, Tibetan, Beverages
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 4.5
+Votes: 647
+Reviews: 251
+Cook Time: 30 minutes
+
+ID: ID_6567
+Lattitude: 39.20019446
+Longitude: -85.52791501
+Cuisines: Bakery, Fast Food, Momos
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 4.1
+Votes: 428
+Reviews: 160
+Cook Time: 30 minutes
+

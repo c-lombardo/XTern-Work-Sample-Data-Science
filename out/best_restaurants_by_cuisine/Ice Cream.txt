@@ -1,0 +1,57 @@
+Top 5 Restaurants for Ice Cream: 
+
+ID: ID_1160
+Lattitude: 39.24628894
+Longitude: -85.15291546
+Cuisines: Asian, Burmese, Bubble Tea, Desserts, Salad, Tea, Beverages, Ice Cream
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.7
+Votes: 914
+Reviews: 499
+Cook Time: 45 minutes
+
+ID: ID_7158
+Lattitude: 39.2000858
+Longitude: -85.57600617
+Cuisines: Ice Cream, Cafe, Pizza, Burger, Beverages
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.5
+Votes: 2805
+Reviews: 1457
+Cook Time: 45 minutes
+
+ID: ID_1160
+Lattitude: 39.24628894
+Longitude: -85.15291546
+Cuisines: Asian, Burmese, Bubble Tea, Desserts, Salad, Tea, Beverages, Ice Cream
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.7
+Votes: 914
+Reviews: 499
+Cook Time: 45 minutes
+
+ID: ID_1877
+Lattitude: 39.12924469
+Longitude: -85.72775016
+Cuisines: Ice Cream, Desserts
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 4.5
+Votes: 1118
+Reviews: 465
+Cook Time: 30 minutes
+
+ID: ID_7325
+Lattitude: 39.5392425
+Longitude: -85.49489697
+Cuisines: Desserts, Ice Cream
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 4.4
+Votes: 406
+Reviews: 241
+Cook Time: 45 minutes
+

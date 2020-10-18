@@ -1,0 +1,13 @@
+Top 1 Restaurants for Bangladeshi: 
+
+ID: ID_3931
+Lattitude: 39.30869013
+Longitude: -85.97560934
+Cuisines: Chinese, Bengali, Bangladeshi, Rolls
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 3.3
+Votes: 16
+Reviews: 4
+Cook Time: 30 minutes
+

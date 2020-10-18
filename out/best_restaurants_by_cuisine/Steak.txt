@@ -1,0 +1,46 @@
+Top 4 Restaurants for Steak: 
+
+ID: ID_1064
+Lattitude: 39.58777695
+Longitude: -85.56480514
+Cuisines: Continental, North Indian, BBQ, Steak
+Average Cost: $80.0
+Minimum Order: $80.0
+Rating: 4.7
+Votes: 9054
+Reviews: 6504
+Cook Time: 45 minutes
+
+ID: ID_4973
+Lattitude: 39.73446475
+Longitude: -85.64148567
+Cuisines: Salad, European, Steak, Healthy Food, Beverages, Finger Food
+Average Cost: $55.0
+Minimum Order: $55.0
+Rating: 4.2
+Votes: 1319
+Reviews: 659
+Cook Time: 45 minutes
+
+ID: ID_1064
+Lattitude: 39.58777695
+Longitude: -85.56480514
+Cuisines: Continental, North Indian, BBQ, Steak
+Average Cost: $80.0
+Minimum Order: $80.0
+Rating: 4.7
+Votes: 9054
+Reviews: 6504
+Cook Time: 45 minutes
+
+ID: ID_6914
+Lattitude: 39.01470314
+Longitude: -85.85639443
+Cuisines: Continental, Chinese, Thai, Italian, BBQ, Steak
+Average Cost: $45.0
+Minimum Order: $45.0
+Rating: 4.0
+Votes: 1444
+Reviews: 675
+Cook Time: 45 minutes
+

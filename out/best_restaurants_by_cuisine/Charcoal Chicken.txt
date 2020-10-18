@@ -1,0 +1,13 @@
+Top 1 Restaurants for Charcoal Chicken: 
+
+ID: ID_5919
+Lattitude: 39.96418711
+Longitude: -85.48872149
+Cuisines: North Indian, Charcoal Chicken, Fast Food, Mughlai, Biryani, Kebab
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.8
+Votes: 25
+Reviews: 13
+Cook Time: 30 minutes
+

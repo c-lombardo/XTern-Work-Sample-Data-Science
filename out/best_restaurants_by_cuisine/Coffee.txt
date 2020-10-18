@@ -1,0 +1,57 @@
+Top 5 Restaurants for Coffee: 
+
+ID: ID_7142
+Lattitude: 39.47097182
+Longitude: -85.33265266
+Cuisines: Cafe, Coffee, Tea, Desserts
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 4.3
+Votes: 295
+Reviews: 103
+Cook Time: 30 minutes
+
+ID: ID_686
+Lattitude: 39.43756835
+Longitude: -85.23904594
+Cuisines: Coffee, Cafe, Fast Food, Desserts, Beverages
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 3.5
+Votes: 15
+Reviews: 11
+Cook Time: 30 minutes
+
+ID: ID_158
+Lattitude: 39.40915019
+Longitude: -85.87628737
+Cuisines: American, Beverages, Burger, Cafe, Coffee, Desserts, Fast Food, Pizza
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: -1.0
+Votes: -1
+Reviews: -1
+Cook Time: 30 minutes
+
+ID: ID_661
+Lattitude: 39.80926507
+Longitude: -85.66940913
+Cuisines: Fast Food, Coffee
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 3.3
+Votes: 9
+Reviews: 5
+Cook Time: 30 minutes
+
+ID: ID_7142
+Lattitude: 39.47097182
+Longitude: -85.33265266
+Cuisines: Cafe, Coffee, Tea, Desserts
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 4.3
+Votes: 295
+Reviews: 103
+Cook Time: 30 minutes
+

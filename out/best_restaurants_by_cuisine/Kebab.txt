@@ -1,0 +1,57 @@
+Top 5 Restaurants for Kebab: 
+
+ID: ID_7924
+Lattitude: 39.54138477
+Longitude: -85.58897872
+Cuisines: North Indian, Chinese, Kebab, Mughlai
+Average Cost: $80.0
+Minimum Order: $80.0
+Rating: 4.7
+Votes: 1112
+Reviews: 972
+Cook Time: 45 minutes
+
+ID: ID_6537
+Lattitude: 39.33842589
+Longitude: -85.05245608
+Cuisines: Biryani, North Indian, Mughlai, Kebab, Rolls
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.7
+Votes: 706
+Reviews: 490
+Cook Time: 30 minutes
+
+ID: ID_562
+Lattitude: 39.28906749
+Longitude: -85.07528017
+Cuisines: North Indian, Kebab, Chinese
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 4.5
+Votes: 450
+Reviews: 285
+Cook Time: 30 minutes
+
+ID: ID_1650
+Lattitude: 39.317059
+Longitude: -85.42654624
+Cuisines: North Indian, Mughlai, Chinese, Kebab
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.3
+Votes: 906
+Reviews: 569
+Cook Time: 45 minutes
+
+ID: ID_2321
+Lattitude: 39.67726879
+Longitude: -85.52759949
+Cuisines: North Indian, Chinese, Mughlai, Kebab
+Average Cost: $75.0
+Minimum Order: $75.0
+Rating: 4.2
+Votes: 580
+Reviews: 455
+Cook Time: 45 minutes
+

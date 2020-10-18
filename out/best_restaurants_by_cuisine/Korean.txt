@@ -1,0 +1,13 @@
+Top 1 Restaurants for Korean: 
+
+ID: ID_7209
+Lattitude: 39.17966186
+Longitude: -85.65193126
+Cuisines: Korean, Momos, Asian
+Average Cost: $80.0
+Minimum Order: $80.0
+Rating: 4.0
+Votes: 262
+Reviews: 112
+Cook Time: 30 minutes
+

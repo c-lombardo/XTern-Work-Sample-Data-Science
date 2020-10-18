@@ -1,0 +1,13 @@
+Top 1 Restaurants for Indonesian: 
+
+ID: ID_1696
+Lattitude: 39.39713844
+Longitude: -85.13530029
+Cuisines: Chinese, Thai, Indonesian, Italian
+Average Cost: $80.0
+Minimum Order: $80.0
+Rating: 4.2
+Votes: 1693
+Reviews: 1239
+Cook Time: 45 minutes
+

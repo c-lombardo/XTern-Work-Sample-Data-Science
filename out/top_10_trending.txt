@@ -1,0 +1,112 @@
+TOP 10 TRENDING RESTAURANTS: 
+
+ID: ID_1064
+Lattitude: 39.58777695
+Longitude: -85.56480514
+Cuisines: Continental, North Indian, BBQ, Steak
+Average Cost: $80.0
+Minimum Order: $80.0
+Rating: 4.7
+Votes: 9054
+Reviews: 6504
+Cook Time: 45 minutes
+
+ID: ID_1666
+Lattitude: 39.95998026
+Longitude: -85.90332907
+Cuisines: Mexican, American, Italian, Burger
+Average Cost: $50.0
+Minimum Order: $50.0
+Rating: 4.6
+Votes: 4903
+Reviews: 3989
+Cook Time: 65 minutes
+
+ID: ID_2051
+Lattitude: 39.75988562
+Longitude: -85.5005065
+Cuisines: Italian, Continental, Chinese, Mexican, Fast Food, Street Food, Desserts
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 4.7
+Votes: 3975
+Reviews: 2359
+Cook Time: 65 minutes
+
+ID: ID_7924
+Lattitude: 39.54138477
+Longitude: -85.58897872
+Cuisines: North Indian, Chinese, Kebab, Mughlai
+Average Cost: $80.0
+Minimum Order: $80.0
+Rating: 4.7
+Votes: 1112
+Reviews: 972
+Cook Time: 45 minutes
+
+ID: ID_7678
+Lattitude: 39.97855579
+Longitude: -85.28522976
+Cuisines: Asian, Continental, North Indian
+Average Cost: $50.0
+Minimum Order: $50.0
+Rating: 4.6
+Votes: 1507
+Reviews: 1131
+Cook Time: 30 minutes
+
+ID: ID_7739
+Lattitude: 39.83247865
+Longitude: -85.89924556
+Cuisines: Cafe, Desserts, French, Bakery, European
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.6
+Votes: 1502
+Reviews: 819
+Cook Time: 30 minutes
+
+ID: ID_2201
+Lattitude: 39.4061532
+Longitude: -85.929083
+Cuisines: North Indian, Chinese, South Indian
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.7
+Votes: 129
+Reviews: 79
+Cook Time: 45 minutes
+
+ID: ID_1166
+Lattitude: 39.59967431
+Longitude: -85.44458177
+Cuisines: North Indian
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 4.7
+Votes: 81
+Reviews: 74
+Cook Time: 45 minutes
+
+ID: ID_7433
+Lattitude: 39.72218647
+Longitude: -85.59112442
+Cuisines: North Indian, Mughlai, Biryani
+Average Cost: $55.0
+Minimum Order: $55.0
+Rating: 4.6
+Votes: 473
+Reviews: 294
+Cook Time: 30 minutes
+
+ID: ID_2601
+Lattitude: 39.56051209
+Longitude: -85.82613749
+Cuisines: Bakery, Desserts, Sandwich
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 4.1
+Votes: 4606
+Reviews: 2311
+Cook Time: 45 minutes
+

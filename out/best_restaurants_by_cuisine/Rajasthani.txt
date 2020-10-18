@@ -1,0 +1,35 @@
+Top 3 Restaurants for Rajasthani: 
+
+ID: ID_6080
+Lattitude: 39.34964848
+Longitude: -85.95553737
+Cuisines: Rajasthani, North Indian
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.3
+Votes: 860
+Reviews: 484
+Cook Time: 65 minutes
+
+ID: ID_6080
+Lattitude: 39.34964848
+Longitude: -85.95553737
+Cuisines: Rajasthani, North Indian
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.3
+Votes: 860
+Reviews: 484
+Cook Time: 65 minutes
+
+ID: ID_2177
+Lattitude: 39.11911509
+Longitude: -85.34612188
+Cuisines: Biryani, North Indian, Chinese, Rajasthani
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 3.8
+Votes: 390
+Reviews: 207
+Cook Time: 45 minutes
+

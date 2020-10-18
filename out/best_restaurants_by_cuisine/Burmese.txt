@@ -1,0 +1,24 @@
+Top 2 Restaurants for Burmese: 
+
+ID: ID_1160
+Lattitude: 39.24628894
+Longitude: -85.15291546
+Cuisines: Asian, Burmese, Bubble Tea, Desserts, Salad, Tea, Beverages, Ice Cream
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.7
+Votes: 914
+Reviews: 499
+Cook Time: 45 minutes
+
+ID: ID_1160
+Lattitude: 39.24628894
+Longitude: -85.15291546
+Cuisines: Asian, Burmese, Bubble Tea, Desserts, Salad, Tea, Beverages, Ice Cream
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.7
+Votes: 914
+Reviews: 499
+Cook Time: 45 minutes
+

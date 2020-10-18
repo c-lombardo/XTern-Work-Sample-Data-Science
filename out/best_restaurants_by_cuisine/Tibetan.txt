@@ -1,0 +1,57 @@
+Top 5 Restaurants for Tibetan: 
+
+ID: ID_4822
+Lattitude: 39.74755936
+Longitude: -85.21347077
+Cuisines: Momos, Tibetan, Beverages
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 4.5
+Votes: 647
+Reviews: 251
+Cook Time: 30 minutes
+
+ID: ID_7465
+Lattitude: 39.80772224
+Longitude: -85.06620497
+Cuisines: Tibetan, Chinese, Momos
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.2
+Votes: 633
+Reviews: 269
+Cook Time: 45 minutes
+
+ID: ID_4244
+Lattitude: 39.64936625
+Longitude: -85.88453351
+Cuisines: Tibetan
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 4.0
+Votes: 126
+Reviews: 53
+Cook Time: 30 minutes
+
+ID: ID_4244
+Lattitude: 39.64936625
+Longitude: -85.88453351
+Cuisines: Tibetan
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 4.0
+Votes: 126
+Reviews: 53
+Cook Time: 30 minutes
+
+ID: ID_4809
+Lattitude: 39.75281807
+Longitude: -85.55574915
+Cuisines: Tibetan
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 3.6
+Votes: 27
+Reviews: 18
+Cook Time: 30 minutes
+

@@ -1,0 +1,24 @@
+Top 2 Restaurants for Bar Food: 
+
+ID: ID_1947
+Lattitude: 39.09298213
+Longitude: -85.6731666
+Cuisines: Bar Food, North Indian, Italian, Continental
+Average Cost: $55.0
+Minimum Order: $55.0
+Rating: 4.3
+Votes: 3394
+Reviews: 1845
+Cook Time: 30 minutes
+
+ID: ID_1947
+Lattitude: 39.09298213
+Longitude: -85.6731666
+Cuisines: Bar Food, North Indian, Italian, Continental
+Average Cost: $55.0
+Minimum Order: $55.0
+Rating: 4.3
+Votes: 3394
+Reviews: 1845
+Cook Time: 30 minutes
+

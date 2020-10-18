@@ -1,0 +1,24 @@
+Top 2 Restaurants for Malaysian: 
+
+ID: ID_8087
+Lattitude: 39.72910005
+Longitude: -85.42266678
+Cuisines: Chinese, Thai, Asian, Malaysian, Vietnamese, Sri Lankan, Burmese
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.2
+Votes: 3782
+Reviews: 1948
+Cook Time: 30 minutes
+
+ID: ID_8087
+Lattitude: 39.72910005
+Longitude: -85.42266678
+Cuisines: Chinese, Thai, Asian, Malaysian, Vietnamese, Sri Lankan, Burmese
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.2
+Votes: 3782
+Reviews: 1948
+Cook Time: 30 minutes
+

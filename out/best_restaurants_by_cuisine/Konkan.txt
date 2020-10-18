@@ -1,0 +1,13 @@
+Top 1 Restaurants for Konkan: 
+
+ID: ID_4120
+Lattitude: 39.71963649
+Longitude: -85.88667315
+Cuisines: Konkan, Maharashtrian
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 3.0
+Votes: 6
+Reviews: 3
+Cook Time: 30 minutes
+

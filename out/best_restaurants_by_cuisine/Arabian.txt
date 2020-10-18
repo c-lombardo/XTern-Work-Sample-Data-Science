@@ -1,0 +1,57 @@
+Top 5 Restaurants for Arabian: 
+
+ID: ID_4292
+Lattitude: 39.00164087
+Longitude: -85.60162119
+Cuisines: Arabian, North Indian, Mughlai, Chinese, Beverages, Desserts
+Average Cost: $35.0
+Minimum Order: $35.0
+Rating: 4.2
+Votes: 431
+Reviews: 259
+Cook Time: 30 minutes
+
+ID: ID_4294
+Lattitude: 39.15952174
+Longitude: -85.16731013
+Cuisines: Arabian, Lebanese, Mughlai, North Indian, BBQ, Chinese
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.0
+Votes: 414
+Reviews: 254
+Cook Time: 45 minutes
+
+ID: ID_4292
+Lattitude: 39.00164087
+Longitude: -85.60162119
+Cuisines: Arabian, North Indian, Mughlai, Chinese, Beverages, Desserts
+Average Cost: $35.0
+Minimum Order: $35.0
+Rating: 4.2
+Votes: 431
+Reviews: 259
+Cook Time: 30 minutes
+
+ID: ID_8086
+Lattitude: 39.23633545
+Longitude: -85.83739244
+Cuisines: Arabian, Biryani, Burger, Sandwich, Desserts
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 4.0
+Votes: 100
+Reviews: 46
+Cook Time: 30 minutes
+
+ID: ID_3565
+Lattitude: 39.80071414
+Longitude: -85.61169746
+Cuisines: Biryani, Mughlai, Chinese, Arabian
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 3.7
+Votes: 572
+Reviews: 167
+Cook Time: 45 minutes
+

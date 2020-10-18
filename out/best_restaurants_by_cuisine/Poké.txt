@@ -1,0 +1,13 @@
+Top 1 Restaurants for Poké: 
+
+ID: ID_825
+Lattitude: 39.29917678
+Longitude: -85.45751888
+Cuisines: Chinese, Sushi, Thai, Poké, Asian
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.1
+Votes: 51
+Reviews: 38
+Cook Time: 30 minutes
+

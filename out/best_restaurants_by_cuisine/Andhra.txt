@@ -1,0 +1,57 @@
+Top 5 Restaurants for Andhra: 
+
+ID: ID_6652
+Lattitude: 39.60078347
+Longitude: -85.76903613
+Cuisines: Biryani, North Indian, Andhra, Chinese
+Average Cost: $35.0
+Minimum Order: $35.0
+Rating: 4.1
+Votes: 2319
+Reviews: 892
+Cook Time: 45 minutes
+
+ID: ID_695
+Lattitude: 39.80962438
+Longitude: -85.45635064
+Cuisines: Biryani, Andhra, North Indian, Chinese
+Average Cost: $35.0
+Minimum Order: $35.0
+Rating: 3.8
+Votes: 446
+Reviews: 232
+Cook Time: 45 minutes
+
+ID: ID_939
+Lattitude: 39.04901858
+Longitude: -85.49079864
+Cuisines: Biryani, North Indian, Chinese, Andhra, South Indian
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 4.3
+Votes: 313
+Reviews: 205
+Cook Time: 30 minutes
+
+ID: ID_3680
+Lattitude: 39.67857697
+Longitude: -85.09899717
+Cuisines: Biryani, Andhra, South Indian, Chinese
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 3.7
+Votes: 248
+Reviews: 47
+Cook Time: 45 minutes
+
+ID: ID_7285
+Lattitude: 39.9721684
+Longitude: -85.65017908
+Cuisines: Andhra, North Indian, Chinese
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 3.6
+Votes: 173
+Reviews: 85
+Cook Time: 65 minutes
+

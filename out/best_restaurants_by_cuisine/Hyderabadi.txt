@@ -1,0 +1,57 @@
+Top 5 Restaurants for Hyderabadi: 
+
+ID: ID_376
+Lattitude: 39.8943061
+Longitude: -85.06488272
+Cuisines: Andhra, Hyderabadi, Biryani, South Indian, North Indian, Rolls, Mughlai
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.7
+Votes: 112
+Reviews: 41
+Cook Time: 30 minutes
+
+ID: ID_376
+Lattitude: 39.8943061
+Longitude: -85.06488272
+Cuisines: Andhra, Hyderabadi, Biryani, South Indian, North Indian, Rolls, Mughlai
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.7
+Votes: 112
+Reviews: 41
+Cook Time: 30 minutes
+
+ID: ID_2108
+Lattitude: 39.867149
+Longitude: -85.20101228
+Cuisines: Biryani, Hyderabadi
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 3.4
+Votes: 49
+Reviews: 19
+Cook Time: 30 minutes
+
+ID: ID_923
+Lattitude: 39.95307824
+Longitude: -85.07001005
+Cuisines: Biryani, Kebab, North Indian, Hyderabadi
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.0
+Votes: 4
+Reviews: 2
+Cook Time: 30 minutes
+
+ID: ID_439
+Lattitude: 39.61088614
+Longitude: -85.86950258
+Cuisines: South Indian, Biryani, Hyderabadi, Fast Food, Chinese
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 3.7
+Votes: 50
+Reviews: 5
+Cook Time: 30 minutes
+

@@ -1,0 +1,35 @@
+Top 3 Restaurants for Kashmiri: 
+
+ID: ID_7879
+Lattitude: 39.62420893
+Longitude: -85.02897653
+Cuisines: Kashmiri, North Indian, Mughlai, Seafood
+Average Cost: $45.0
+Minimum Order: $45.0
+Rating: 4.0
+Votes: 829
+Reviews: 432
+Cook Time: 65 minutes
+
+ID: ID_7879
+Lattitude: 39.62420893
+Longitude: -85.02897653
+Cuisines: Kashmiri, North Indian, Mughlai, Seafood
+Average Cost: $45.0
+Minimum Order: $45.0
+Rating: 4.0
+Votes: 829
+Reviews: 432
+Cook Time: 65 minutes
+
+ID: ID_3846
+Lattitude: 39.46629195
+Longitude: -85.01481616
+Cuisines: Biryani, North Indian, Rolls, Kashmiri, Mughlai
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 3.9
+Votes: 195
+Reviews: 117
+Cook Time: 45 minutes
+

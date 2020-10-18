@@ -1,0 +1,24 @@
+Top 2 Restaurants for Tamil: 
+
+ID: ID_7252
+Lattitude: 39.30274588
+Longitude: -85.22881832
+Cuisines: Tamil, Biryani, South Indian, Chettinad, North Indian, Chinese
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 3.9
+Votes: 163
+Reviews: 112
+Cook Time: 30 minutes
+
+ID: ID_7252
+Lattitude: 39.30274588
+Longitude: -85.22881832
+Cuisines: Tamil, Biryani, South Indian, Chettinad, North Indian, Chinese
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 3.9
+Votes: 163
+Reviews: 112
+Cook Time: 30 minutes
+

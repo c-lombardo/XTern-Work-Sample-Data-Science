@@ -1,0 +1,57 @@
+Top 5 Restaurants for Pizza: 
+
+ID: ID_7158
+Lattitude: 39.2000858
+Longitude: -85.57600617
+Cuisines: Ice Cream, Cafe, Pizza, Burger, Beverages
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.5
+Votes: 2805
+Reviews: 1457
+Cook Time: 45 minutes
+
+ID: ID_18
+Lattitude: 39.21515301
+Longitude: -85.56410295
+Cuisines: Pizza, Italian, Beverages
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.5
+Votes: 366
+Reviews: 232
+Cook Time: 45 minutes
+
+ID: ID_2521
+Lattitude: 39.72651802
+Longitude: -85.70435873
+Cuisines: Mediterranean, Pizza, Italian, Beverages
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.4
+Votes: 467
+Reviews: 262
+Cook Time: 65 minutes
+
+ID: ID_6952
+Lattitude: 39.34835729
+Longitude: -85.00529061
+Cuisines: Pizza, Salad, Burger, Sandwich, Lebanese, Italian
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 4.4
+Votes: 315
+Reviews: 248
+Cook Time: 30 minutes
+
+ID: ID_4797
+Lattitude: 39.33220684
+Longitude: -85.57339319
+Cuisines: Pizza, Italian, Desserts, Beverages
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.1
+Votes: 198
+Reviews: 69
+Cook Time: 30 minutes
+

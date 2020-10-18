@@ -1,0 +1,13 @@
+Top 1 Restaurants for Bohri: 
+
+ID: ID_1000
+Lattitude: 39.82935125
+Longitude: -85.24935128
+Cuisines: Bohri, Biryani
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 3.7
+Votes: 96
+Reviews: 55
+Cook Time: 30 minutes
+

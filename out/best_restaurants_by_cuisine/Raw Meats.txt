@@ -1,0 +1,24 @@
+Top 2 Restaurants for Raw Meats: 
+
+ID: ID_6136
+Lattitude: 39.10931984
+Longitude: -85.3595546
+Cuisines: Raw Meats, North Indian, Fast Food
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.6
+Votes: 60
+Reviews: 31
+Cook Time: 30 minutes
+
+ID: ID_6136
+Lattitude: 39.10931984
+Longitude: -85.3595546
+Cuisines: Raw Meats, North Indian, Fast Food
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 3.6
+Votes: 60
+Reviews: 31
+Cook Time: 30 minutes
+

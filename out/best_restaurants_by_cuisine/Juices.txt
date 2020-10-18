@@ -1,0 +1,57 @@
+Top 5 Restaurants for Juices: 
+
+ID: ID_2493
+Lattitude: 39.45035598
+Longitude: -85.41601897
+Cuisines: Fast Food, Street Food, Beverages, Juices
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.2
+Votes: 1762
+Reviews: 899
+Cook Time: 45 minutes
+
+ID: ID_6013
+Lattitude: 39.49329031
+Longitude: -85.87647321
+Cuisines: Cafe, Spanish, Italian, Mexican, Salad, Juices
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.1
+Votes: 1307
+Reviews: 794
+Cook Time: 45 minutes
+
+ID: ID_6013
+Lattitude: 39.29149882
+Longitude: -85.57633818
+Cuisines: Cafe, Spanish, Italian, Mexican, Salad, Juices
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.1
+Votes: 1307
+Reviews: 794
+Cook Time: 45 minutes
+
+ID: ID_5347
+Lattitude: 39.13186172
+Longitude: -85.90350744
+Cuisines: Desserts, Juices
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.1
+Votes: 716
+Reviews: 539
+Cook Time: 30 minutes
+
+ID: ID_7201
+Lattitude: 39.03709386
+Longitude: -85.27184423
+Cuisines: Desserts, Juices
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 3.9
+Votes: 281
+Reviews: 127
+Cook Time: 30 minutes
+

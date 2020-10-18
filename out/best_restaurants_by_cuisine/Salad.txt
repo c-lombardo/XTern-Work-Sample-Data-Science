@@ -1,0 +1,57 @@
+Top 5 Restaurants for Salad: 
+
+ID: ID_6915
+Lattitude: 39.30380113
+Longitude: -85.96013735
+Cuisines: European, Italian, American, Salad
+Average Cost: $65.0
+Minimum Order: $65.0
+Rating: 4.6
+Votes: 2858
+Reviews: 1673
+Cook Time: 30 minutes
+
+ID: ID_1160
+Lattitude: 39.24628894
+Longitude: -85.15291546
+Cuisines: Asian, Burmese, Bubble Tea, Desserts, Salad, Tea, Beverages, Ice Cream
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.7
+Votes: 914
+Reviews: 499
+Cook Time: 45 minutes
+
+ID: ID_2041
+Lattitude: 39.16900616
+Longitude: -85.23023738
+Cuisines: Italian, Pizza, Salad, Healthy Food, Mexican, Cafe, Desserts, Continental
+Average Cost: $65.0
+Minimum Order: $65.0
+Rating: 4.4
+Votes: 3248
+Reviews: 1603
+Cook Time: 45 minutes
+
+ID: ID_2041
+Lattitude: 39.16900616
+Longitude: -85.23023738
+Cuisines: Italian, Pizza, Salad, Healthy Food, Mexican, Cafe, Desserts, Continental
+Average Cost: $65.0
+Minimum Order: $65.0
+Rating: 4.4
+Votes: 3248
+Reviews: 1603
+Cook Time: 45 minutes
+
+ID: ID_6967
+Lattitude: 39.97149012
+Longitude: -85.10478656
+Cuisines: Cafe, European, Continental, Sandwich, Salad, Healthy Food
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.6
+Votes: 391
+Reviews: 174
+Cook Time: 30 minutes
+

@@ -1,0 +1,57 @@
+Top 5 Restaurants for South Indian: 
+
+ID: ID_2201
+Lattitude: 39.4061532
+Longitude: -85.929083
+Cuisines: North Indian, Chinese, South Indian
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.7
+Votes: 129
+Reviews: 79
+Cook Time: 45 minutes
+
+ID: ID_5605
+Lattitude: 39.64830971
+Longitude: -85.97817271
+Cuisines: North Indian, South Indian, Continental
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.3
+Votes: 1028
+Reviews: 728
+Cook Time: 65 minutes
+
+ID: ID_7185
+Lattitude: 39.30549831
+Longitude: -85.45122879
+Cuisines: North Indian, South Indian, Fast Food, Chinese
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.2
+Votes: 1256
+Reviews: 925
+Cook Time: 30 minutes
+
+ID: ID_1792
+Lattitude: 39.4375917
+Longitude: -85.19193004
+Cuisines: North Indian, Chinese, South Indian
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.3
+Votes: 112
+Reviews: 33
+Cook Time: 30 minutes
+
+ID: ID_8220
+Lattitude: 39.44890358
+Longitude: -85.23394769
+Cuisines: South Indian
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 4.2
+Votes: 536
+Reviews: 459
+Cook Time: 45 minutes
+

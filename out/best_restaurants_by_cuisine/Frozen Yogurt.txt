@@ -1,0 +1,13 @@
+Top 1 Restaurants for Frozen Yogurt: 
+
+ID: ID_4697
+Lattitude: 39.122609
+Longitude: -85.43929411
+Cuisines: Frozen Yogurt, Fast Food, Desserts, Beverages
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 4.1
+Votes: 197
+Reviews: 106
+Cook Time: 45 minutes
+

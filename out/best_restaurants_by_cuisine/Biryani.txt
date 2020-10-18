@@ -1,0 +1,57 @@
+Top 5 Restaurants for Biryani: 
+
+ID: ID_4728
+Lattitude: 39.13510937
+Longitude: -85.83049006
+Cuisines: North Indian, Mughlai, Biryani, Rolls, Momos
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.8
+Votes: 650
+Reviews: 423
+Cook Time: 45 minutes
+
+ID: ID_7433
+Lattitude: 39.72218647
+Longitude: -85.59112442
+Cuisines: North Indian, Mughlai, Biryani
+Average Cost: $55.0
+Minimum Order: $55.0
+Rating: 4.6
+Votes: 473
+Reviews: 294
+Cook Time: 30 minutes
+
+ID: ID_3133
+Lattitude: 39.22662864
+Longitude: -85.28437877
+Cuisines: North Indian, Mughlai, Biryani
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.3
+Votes: 217
+Reviews: 145
+Cook Time: 30 minutes
+
+ID: ID_2402
+Lattitude: 39.27608393
+Longitude: -85.56217964
+Cuisines: Healthy Food, North Indian, Biryani, Continental, Beverages
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.2
+Votes: 476
+Reviews: 105
+Cook Time: 30 minutes
+
+ID: ID_2402
+Lattitude: 39.5648064
+Longitude: -85.45116558
+Cuisines: Healthy Food, North Indian, Biryani, Continental, Beverages
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.2
+Votes: 432
+Reviews: 105
+Cook Time: 30 minutes
+

@@ -1,0 +1,13 @@
+Top 1 Restaurants for Naga: 
+
+ID: ID_3638
+Lattitude: 39.76449736
+Longitude: -85.11780264
+Cuisines: Raw Meats, Naga
+Average Cost: $10.0
+Minimum Order: $10.0
+Rating: 3.6
+Votes: 19
+Reviews: 7
+Cook Time: 30 minutes
+

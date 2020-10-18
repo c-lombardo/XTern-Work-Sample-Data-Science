@@ -1,0 +1,13 @@
+Top 1 Restaurants for Cantonese: 
+
+ID: ID_6278
+Lattitude: 39.22516297
+Longitude: -85.95871471
+Cuisines: Chinese, Cantonese
+Average Cost: $100.0
+Minimum Order: $100.0
+Rating: 4.7
+Votes: 441
+Reviews: 259
+Cook Time: 30 minutes
+

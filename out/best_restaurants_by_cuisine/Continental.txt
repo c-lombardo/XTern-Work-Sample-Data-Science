@@ -1,0 +1,57 @@
+Top 5 Restaurants for Continental: 
+
+ID: ID_1064
+Lattitude: 39.58777695
+Longitude: -85.56480514
+Cuisines: Continental, North Indian, BBQ, Steak
+Average Cost: $80.0
+Minimum Order: $80.0
+Rating: 4.7
+Votes: 9054
+Reviews: 6504
+Cook Time: 45 minutes
+
+ID: ID_2051
+Lattitude: 39.75988562
+Longitude: -85.5005065
+Cuisines: Italian, Continental, Chinese, Mexican, Fast Food, Street Food, Desserts
+Average Cost: $30.0
+Minimum Order: $30.0
+Rating: 4.7
+Votes: 3975
+Reviews: 2359
+Cook Time: 65 minutes
+
+ID: ID_7858
+Lattitude: 39.35848172
+Longitude: -85.3477517
+Cuisines: Continental, North Indian, Thai
+Average Cost: $55.0
+Minimum Order: $55.0
+Rating: 4.6
+Votes: 391
+Reviews: 220
+Cook Time: 30 minutes
+
+ID: ID_7753
+Lattitude: 39.57111405
+Longitude: -85.06931999
+Cuisines: European, Continental, North Indian, Desserts
+Average Cost: $75.0
+Minimum Order: $75.0
+Rating: 4.3
+Votes: 3124
+Reviews: 1660
+Cook Time: 45 minutes
+
+ID: ID_2041
+Lattitude: 39.16900616
+Longitude: -85.23023738
+Cuisines: Italian, Pizza, Salad, Healthy Food, Mexican, Cafe, Desserts, Continental
+Average Cost: $65.0
+Minimum Order: $65.0
+Rating: 4.4
+Votes: 3248
+Reviews: 1603
+Cook Time: 45 minutes
+

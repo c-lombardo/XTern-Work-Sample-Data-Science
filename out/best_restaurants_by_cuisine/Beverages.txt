@@ -1,0 +1,57 @@
+Top 5 Restaurants for Beverages: 
+
+ID: ID_1160
+Lattitude: 39.24628894
+Longitude: -85.15291546
+Cuisines: Asian, Burmese, Bubble Tea, Desserts, Salad, Tea, Beverages, Ice Cream
+Average Cost: $60.0
+Minimum Order: $60.0
+Rating: 4.7
+Votes: 914
+Reviews: 499
+Cook Time: 45 minutes
+
+ID: ID_7158
+Lattitude: 39.2000858
+Longitude: -85.57600617
+Cuisines: Ice Cream, Cafe, Pizza, Burger, Beverages
+Average Cost: $20.0
+Minimum Order: $20.0
+Rating: 4.5
+Votes: 2805
+Reviews: 1457
+Cook Time: 45 minutes
+
+ID: ID_981
+Lattitude: 39.85123018
+Longitude: -85.04186547
+Cuisines: Cafe, Salad, Italian, American, Bakery, Beverages
+Average Cost: $40.0
+Minimum Order: $40.0
+Rating: 4.5
+Votes: 879
+Reviews: 518
+Cook Time: 45 minutes
+
+ID: ID_8438
+Lattitude: 39.0393888
+Longitude: -85.54400107
+Cuisines: Fast Food, Beverages
+Average Cost: $25.0
+Minimum Order: $25.0
+Rating: 4.4
+Votes: 662
+Reviews: 410
+Cook Time: 45 minutes
+
+ID: ID_4606
+Lattitude: 39.47260835
+Longitude: -85.41818556
+Cuisines: Fast Food, Desserts, Beverages
+Average Cost: $15.0
+Minimum Order: $15.0
+Rating: 4.1
+Votes: 3535
+Reviews: 1631
+Cook Time: 30 minutes
+
